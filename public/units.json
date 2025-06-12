@@ -1,0 +1,529 @@
+{
+  "Abyss": {
+    "good_against": [],
+    "countered_by": ["Melting Point"]
+  },
+  "Arclight": {
+    "good_against": [
+      "Crawler",
+      "Fang",
+      "Mustang",
+      "Steel Ball",
+      "Sledgehammer",
+      "Fire Badger",
+      "Typhoon"
+    ],
+    "countered_by": [
+      "Marksman",
+      "Stormcaller",
+      "Rhino",
+      "Overlord",
+      "Fortress",
+      "Phoenix",
+      "Wraith",
+      "War Factory",
+      "Scorpion",
+      "Sabertooth"
+    ]
+  },
+  "Crawler": {
+    "good_against": [
+      "Fang",
+      "Hacker",
+      "Marksman",
+      "Melting Point",
+      "Steel Ball",
+      "Stormcaller",
+      "Sabertooth",
+      "Scorpion"
+    ],
+    "countered_by": [
+      "Arclight",
+      "Vulcan",
+      "Rhino",
+      "Wraith",
+      "Sledgehammer",
+      "Fire Badger",
+      "Typhoon",
+      "Tarantula"
+    ]
+  },
+  "Fang": {
+    "good_against": [],
+    "countered_by": [
+      "Crawler",
+      "Mustang",
+      "Stormcaller",
+      "Vulcan",
+      "Typhoon",
+      "Tarantula"
+    ]
+  },
+  "Farseer": {
+    "good_against": [
+      "Wasp",
+      "Wraith",
+      "Sledgehammer",
+      "Steel Ball"
+    ],
+    "countered_by": [
+      "Fortress",
+      "Rhino",
+      "War Factory"
+    ]
+  },
+  "Fire Badger": {
+    "good_against": [
+      "Crawler",
+      "Fang",
+      "Mustang"
+    ],
+    "countered_by": [
+      "Sabertooth",
+      "Fortress",
+      "Hacker",
+      "Marksman",
+      "Overlord",
+      "Phoenix",
+      "Rhino",
+      "Scorpion",
+      "War Factory"
+    ]
+  },
+  "Fortress": {
+    "good_against": [
+      "Arclight",
+      "Rhino",
+      "Sledgehammer",
+      "Vulcan",
+      "Wasp",
+      "Hacker",
+      "Overlord",
+      "Phoenix",
+      "Typhoon",
+      "Scorpion"
+    ],
+    "countered_by": [
+      "Crawler",
+      "Melting Point",
+      "Overlord",
+      "Stormcaller",
+      "Steel Ball"
+    ]
+  },
+  "Hacker": {
+    "good_against": [
+      "Steel Ball",
+      "Sledgehammer",
+      "Rhino",
+      "Scorpion",
+      "Melting Point",
+      "Fire Badger",
+      "Arclight"
+    ],
+    "countered_by": [
+      "Overlord",
+      "Fortress",
+      "Stormcaller",
+      "Crawler",
+      "Fang",
+      "Phoenix",
+      "Wraith",
+      "War Factory"
+    ]
+  },
+  "Hound": {
+    "good_against": [
+      "Crawler",
+      "Fang"
+    ],
+    "countered_by": [
+      "Fire Badger",
+      "Rhino",
+      "Scorpion",
+      "Raiden",
+      "Typhoon",
+      "Vulcan",
+      "Wraith",
+      "Sandworm"
+    ]
+  },
+  "Marksman": {
+    "good_against": [
+      "Phoenix",
+      "Overlord",
+      "Vulcan",
+      "Arclight",
+      "Sledgehammer"
+    ],
+    "countered_by": [
+      "Crawler",
+      "Fang",
+      "Stormcaller",
+      "Wasp",
+      "Fortress",
+      "Rhino"
+    ]
+  },
+  "Melting Point": {
+    "good_against": [
+      "Fortress",
+      "Rhino",
+      "Vulcan",
+      "Wraith",
+      "War Factory",
+      "Scorpion",
+      "Typhoon"
+    ],
+    "countered_by": [
+      "Steel Ball",
+      "Crawler",
+      "Marksman",
+      "Phoenix",
+      "Stormcaller",
+      "Hacker"
+    ]
+  },
+  "Mustang": {
+    "good_against": [
+      "Fang",
+      "Phoenix",
+      "Wasp",
+      "Crawler"
+    ],
+    "countered_by": [
+      "Arclight",
+      "Sledgehammer",
+      "Stormcaller",
+      "Vulcan",
+      "Fortress",
+      "Rhino",
+      "Fire Badger",
+      "Typhoon",
+      "Tarantula"
+    ]
+  },
+  "Overlord": {
+    "good_against": [
+      "Rhino",
+      "Steel Ball",
+      "Sledgehammer",
+      "Stormcaller",
+      "Vulcan",
+      "Arclight",
+      "Hacker",
+      "Scorpion",
+      "Fire Badger",
+      "Sabertooth",
+      "Typhoon",
+      "War Factory",
+      "Wraith"
+    ],
+    "countered_by": [
+      "Marksman",
+      "Melting Point",
+      "Phoenix",
+      "Mustang",
+      "Fortress"
+    ]
+  },
+  "Phantom Ray": {
+    "good_against": [
+      "Fire Badger",
+      "Hacker",
+      "Mustang",
+      "Sledgehammer",
+      "Steel Ball",
+      "Stormcaller",
+      "Typhoon",
+      "Wraith"
+    ],
+    "countered_by": [
+      "Farseer",
+      "Marksman",
+      "Melting Point",
+      "Overlord",
+      "Phoenix",
+      "Raiden"
+    ]
+  },
+  "Phoenix": {
+    "good_against": [
+      "Arclight",
+      "Overlord",
+      "Rhino",
+      "Stormcaller",
+      "Vulcan",
+      "Typhoon",
+      "Sabertooth",
+      "Fire Badger",
+      "Scorpion"
+    ],
+    "countered_by": [
+      "Wasp",
+      "Marksman",
+      "Mustang",
+      "Fang",
+      "Fortress"
+    ]
+  },
+  "Raiden": {
+    "good_against": [
+      "Fire Badger",
+      "Sledgehammer",
+      "Steel Ball",
+      "Stormcaller"
+    ],
+    "countered_by": [
+      "Farseer",
+      "Marksman",
+      "Melting Point",
+      "Overlord",
+      "Phoenix"
+    ]
+  },
+  "Rhino": {
+    "good_against": [
+      "Arclight",
+      "Vulcan",
+      "Stormcaller",
+      "Crawler",
+      "Sledgehammer",
+      "Fire Badger",
+      "Marksman",
+      "Mustang",
+      "Typhoon"
+    ],
+    "countered_by": [
+      "Fortress",
+      "Hacker",
+      "Melting Point",
+      "Steel Ball",
+      "Phoenix",
+      "Overlord",
+      "War Factory"
+    ]
+  },
+  "Sabertooth": {
+    "good_against": [
+      "Arclight",
+      "Steel Ball",
+      "Stormcaller",
+      "Fire Badger",
+      "Sledgehammer"
+    ],
+    "countered_by": [
+      "Fortress",
+      "Hacker",
+      "Melting Point",
+      "Overlord",
+      "Phoenix",
+      "Rhino"
+    ]
+  },
+  "Sandworm": {
+    "good_against": [
+      "Fire Badger",
+      "Arclight",
+      "Marksman",
+      "Rhino",
+      "Sabertooth",
+      "Sledgehammer",
+      "Steel Ball",
+      "Typhoon",
+      "Vulcan",
+      "Tarantula",
+      "Mustang"
+    ],
+    "countered_by": [
+      "War Factory",
+      "Phoenix",
+      "Overlord",
+      "Steel Ball",
+      "Melting Point",
+      "Rhino"
+    ]
+  },
+  "Scorpion": {
+    "good_against": [
+      "Sledgehammer",
+      "Steel Ball",
+      "Arclight",
+      "War Factory"
+    ],
+    "countered_by": [
+      "Marksman",
+      "Phoenix",
+      "Stormcaller",
+      "Overlord"
+    ]
+  },
+  "Sledgehammer": {
+    "good_against": [
+      "Crawler",
+      "Mustang",
+      "Stormcaller"
+    ],
+    "countered_by": [
+      "Hacker",
+      "Fortress",
+      "Phoenix",
+      "Overlord",
+      "Scorpion",
+      "War Factory",
+      "Marksman",
+      "Rhino"
+    ]
+  },
+  "Steel Ball": {
+    "good_against": [
+      "Fortress",
+      "Rhino",
+      "Melting Point",
+      "Vulcan",
+      "War Factory",
+      "Fire Badger",
+      "Typhoon"
+    ],
+    "countered_by": [
+      "Crawler",
+      "Hacker",
+      "Phoenix",
+      "Overlord",
+      "Stormcaller",
+      "Scorpion"
+    ]
+  },
+  "Stormcaller": {
+    "good_against": [
+      "Arclight",
+      "Fang",
+      "Melting Point",
+      "Vulcan",
+      "Mustang",
+      "Marksman",
+      "Fortress",
+      "Scorpion",
+      "Typhoon"
+    ],
+    "countered_by": [
+      "Overlord",
+      "Phoenix",
+      "Stormcaller",
+      "Crawler",
+      "Sledgehammer",
+      "Rhino",
+      "War Factory",
+      "Sabertooth"
+    ]
+  },
+  "Tarantula": {
+    "good_against": [
+      "Fang",
+      "Crawler",
+      "Mustang",
+      "Wasp"
+    ],
+    "countered_by": [
+      "Fortress",
+      "Hacker",
+      "Marksman",
+      "Melting Point",
+      "Overlord",
+      "Phoenix",
+      "Rhino",
+      "Sabertooth",
+      "Scorpion",
+      "Sandworm",
+      "Steel Ball",
+      "War Factory",
+      "Stormcaller"
+    ]
+  },
+  "Typhoon": {
+    "good_against": [
+      "Crawler",
+      "Fang",
+      "Wasp",
+      "Mustang"
+    ],
+    "countered_by": [
+      "Fortress",
+      "Marksman",
+      "Melting Point",
+      "Overlord",
+      "Phoenix",
+      "Rhino",
+      "Sabertooth",
+      "Scorpion",
+      "Steel Ball",
+      "War Factory"
+    ]
+  },
+  "Vulcan": {
+    "good_against": [
+      "Crawler",
+      "Fang",
+      "Mustang"
+    ],
+    "countered_by": [
+      "Fortress",
+      "Melting Point",
+      "Overlord",
+      "Phoenix",
+      "Rhino",
+      "Stormcaller"
+    ]
+  },
+  "War Factory": {
+    "good_against": [
+      "Arclight",
+      "Marksman",
+      "Rhino",
+      "Sledgehammer",
+      "Steel Ball",
+      "Vulcan",
+      "Stormcaller",
+      "Overlord",
+      "Fire Badger",
+      "Typhoon",
+      "Sabertooth"
+    ],
+    "countered_by": [
+      "Melting Point",
+      "Scorpion"
+    ]
+  },
+  "Wasp": {
+    "good_against": [
+      "Marksman",
+      "Phoenix",
+      "Melting Point",
+      "Vulcan",
+      "Overlord"
+    ],
+    "countered_by": [
+      "Mustang",
+      "Fortress",
+      "Fang",
+      "Wraith",
+      "Typhoon",
+      "Tarantula"
+    ]
+  },
+  "Wraith": {
+    "good_against": [
+      "Crawler",
+      "Fang",
+      "Sledgehammer",
+      "Steel Ball",
+      "Wasp"
+    ],
+    "countered_by": [
+      "Overlord",
+      "Phoenix",
+      "Melting Point",
+      "Marksman"
+    ]
+  }
+}
