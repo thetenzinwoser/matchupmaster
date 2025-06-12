@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/matchupmaster/static/css/main.db0c7305.css",
+    "main.js": "/matchupmaster/static/js/main.5a41116b.js",
+    "static/js/453.4ab48923.chunk.js": "/matchupmaster/static/js/453.4ab48923.chunk.js",
+    "index.html": "/matchupmaster/index.html",
+    "main.db0c7305.css.map": "/matchupmaster/static/css/main.db0c7305.css.map",
+    "main.5a41116b.js.map": "/matchupmaster/static/js/main.5a41116b.js.map",
+    "453.4ab48923.chunk.js.map": "/matchupmaster/static/js/453.4ab48923.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db0c7305.css",
+    "static/js/main.5a41116b.js"
+  ]
+}
